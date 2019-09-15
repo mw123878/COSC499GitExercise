@@ -4,15 +4,15 @@ public class Calculator {
 		
 	}
 	
-	public int plus(int n) {
+	public int plus(int n, int m) {
 	}
 	
-	public int minus(int n) {
+	public int minus(int n, int m) {
 	}
 	
-	public int divide(int n) {
+	public int divide(int n, int m) {
 	}
 	
-	public int multiply(int n) {
+	public int multiply(int n, int m) {
 	}
 }
