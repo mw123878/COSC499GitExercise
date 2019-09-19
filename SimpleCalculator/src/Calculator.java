@@ -37,5 +37,6 @@ public class Calculator {
 	}
 	
 	public int multiply(int n, int m) {
+		return n * m;
 	}
 }
