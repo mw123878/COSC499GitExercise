@@ -8,11 +8,13 @@ public class Calculator {
 	}
 	
 	public int minus(int n, int m) {
+		return n-m;
 	}
+  
 	/*Is this how you're supposed to divide*/
 	//NO
 	public int divide(int n, int m) {
-		return m/n;
+    return n/m;
 	}
 	
 	public int multiply(int n, int m) {
