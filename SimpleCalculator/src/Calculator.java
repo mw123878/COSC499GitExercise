@@ -10,6 +10,7 @@ public class Calculator {
 	public int minus(int n, int m) {
 	}
 	/*Is this how you're supposed to divide*/
+	//NO
 	public int divide(int n, int m) {
 		return m/n;
 	}
