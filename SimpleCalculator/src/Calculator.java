@@ -27,6 +27,7 @@ public class Calculator {
 	}
 	
 	public int plus(int n, int m) {
+		return n + m;
 	}
 	
 	public int minus(int n, int m) {
