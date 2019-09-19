@@ -8,6 +8,7 @@ public class Calculator {
 	}
 	
 	public int minus(int n, int m) {
+		return n-m;
 	}
 	
 	public int divide(int n, int m) {
